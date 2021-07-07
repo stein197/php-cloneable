@@ -1,0 +1,18 @@
+{
+    "name": "stein197/cloneable",
+    "description": "Interface that should be implemented by all classes which instances could cloned",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nail Gafarov",
+            "email": "nil20122013@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Stein197\\": "src/"
+		}
+	}
+}
